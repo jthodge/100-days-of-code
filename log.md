@@ -1,30 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### R1D1: 2018-06-06
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: R1D1: Invested ~1 hour into building Tic Tac Toe for my Recurse Center application. Using Canvas, constructed the board and implemented player marking in board spaces. Tomorrow I'll tackle the win condition logic.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** No difficulties encountered in coding today since I'm famililar with the JS and Canvas needed today.  (Though I'm certain this lack of difficulty will change soon enough...) Feelings of warmth and support from the 100 Days of Code community members are bolstering, and it's lovely to be apart of such a welcoming and inviting space.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
