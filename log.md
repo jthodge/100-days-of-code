@@ -15,3 +15,11 @@
 **Thoughts:** Progress today was slow, but fruitful, as refactoring forced me to slow down and really consider how each function interacts with the others.
 
 **Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
+
+### R1D2: 2018-06-08
+
+**Today's Progress**: Found a better way to determine move position, as well as a cute method of updating the current board state of a game. Currently thinking of ways to push drawn moves the updated board state...
+
+**Thoughts:** Taking moves drawn to the canvas and pushing them to an updated board state is proving to be more difficult than I anticipated, which I'm feeling frustrated about. Waiting until so late into the day (night) definitely makes my thinking sluggish, so I'm eager to rethink this when I'm fresh.
+
+**Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
