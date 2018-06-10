@@ -16,10 +16,18 @@
 
 **Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
 
-### R1D2: 2018-06-08
+### R1D3: 2018-06-08
 
 **Today's Progress**: Found a better way to determine move position, as well as a cute method of updating the current board state of a game. Currently thinking of ways to push drawn moves the updated board state...
 
 **Thoughts:** Taking moves drawn to the canvas and pushing them to an updated board state is proving to be more difficult than I anticipated, which I'm feeling frustrated about. Waiting until so late into the day (night) definitely makes my thinking sluggish, so I'm eager to rethink this when I'm fresh.
+
+**Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
+
+### R1D4: 2018-06-09
+
+**Today's Progress**: Took a while of staring into space to arrive at using the 'mousemove' event position to determine row and column location, and then updating the board state based this location. Tomorrow is (finally!) win condition logic.
+
+**Thoughts:** Waiting until late at night to code is a habit that I'm finding unproductively frustrating. Shifting this practice to another location in the day would probably speed up progress on this project. I'm ready to ship it and move on to something else.
 
 **Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
