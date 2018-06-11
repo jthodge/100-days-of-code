@@ -31,3 +31,11 @@
 **Thoughts:** Waiting until late at night to code is a habit that I'm finding unproductively frustrating. Shifting this practice to another location in the day would probably speed up progress on this project. I'm ready to ship it and move on to something else.
 
 **Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
+
+### R1D5: 2018-06-10
+
+**Today's Progress**: Slow day today. Implemented win condition logic for verticals, horizontals, and diagonals. Ran into issues with setInterval(); and a couple of Canvas fill functions covering drawn moves, but quickly resolved them. 
+
+**Thoughts:** Proud that I managed to carve out time today, and reminding myself that a small amount of progress is still progress.
+
+**Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
