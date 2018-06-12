@@ -39,3 +39,11 @@
 **Thoughts:** Proud that I managed to carve out time today, and reminding myself that a small amount of progress is still progress.
 
 **Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
+
+### R1D6: 2018-06-11
+
+**Today's Progress**: Today was one those days where you spend a couple of hours debugging, only to step away for a bit, come back, and realize that 13 lines needed to be indented. 
+
+**Thoughts:** A bit frustrated, and a whole lot relieved.
+
+**Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
