@@ -47,3 +47,12 @@
 **Thoughts:** A bit frustrated, and a whole lot relieved.
 
 **Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
+
+## R1D7: 2018-06-12
+
+**Today's Progress**: A bit of a frustrating day. Spent an hour or so unable to drop into a flow state and wasn't able to ship. Tomorrow will certainly be better!
+
+**Thoughts:** Eager to get back at it again tomorrow.
+
+**Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
+
