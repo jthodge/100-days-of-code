@@ -48,11 +48,12 @@
 
 **Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
 
-## R1D7: 2018-06-12
+## R1D8: 2018-06-13
 
-**Today's Progress**: A bit of a frustrating day. Spent an hour or so unable to drop into a flow state and wasn't able to ship. Tomorrow will certainly be better!
+**Today's Progress**: Made decent progress today by implementing Win and Tie notifications. Tie is a bit rough around the edges and I'd like to make it pleasing to the eye. For now, it's functional though!
 
-**Thoughts:** Eager to get back at it again tomorrow.
+**Thoughts:** Ready to put the finishing touches on and ship this thing!
 
 **Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
+
 
