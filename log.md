@@ -61,7 +61,7 @@
 **Today's Progress**: Nothing to commit today as I took ~1 hr to read about  implementing minimax for an AI opponent. Will strive to get this feature functioning tomorrow.
 * [Tic Tac Toe: Understanding the Minimax Algorithm](https://www.neverstopbuilding.com/blog/2013/12/13/tic-tac-toe-understanding-the-minimax-algorithm13)
 * [How to make your Tic Tac Toe game unbeatable by using the minimax algorithm](https://medium.freecodecamp.org/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37)
-* [How to build an AI that wins: the basics of minimax search](https://blog.vivekpanyam.com/how-to-build-an-ai-that-wins-the-basics-of-minimax-search/m)
+* [How to build an AI that wins: the basics of minimax search](https://blog.vivekpanyam.com/how-to-build-an-ai-that-wins-the-basics-of-minimax-search/)
 
 **Thoughts:** A bit ruffled that I've allowed scope creep to move in and implement an AI opponent instead of shipping...but digging into minimax is going to be so much fun!
 
