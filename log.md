@@ -66,3 +66,11 @@
 **Thoughts:** A bit ruffled that I've allowed scope creep to move in and implement an AI opponent instead of shipping...but digging into minimax is going to be so much fun!
 
 **Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
+
+## R1D10: 2018-06-15
+
+**Today's Progress**: Finally completed all desired features! Perfect minimax AI is good to go. I ended up having to rewrite functions to draw X & O based on boardState index and box size instead of canvas coordinates, because the AI player doesn't trigger 'click' events.
+
+**Thoughts:** A friend pointed out some major flaws in the lack of modern JS practices with this little project, so while I still would like to make those changes and write up a README, it feels absolutely wonderful to ship this.
+
+**Link to work:** [Tic Tac Toe repo](https://github.com/jthodge/tic-tac-toe)
